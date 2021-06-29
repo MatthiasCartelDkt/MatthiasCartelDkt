@@ -1,6 +1,7 @@
 ### Hello World 👋
 
 I am a fullstack web developper for Decathlon 💪
+- ✔️ Available for side projects, add me on my linkedin and send me a message ! 
 - 🔭 Working on multiple frontend and backend project using ReactJs, NodeJs and GCP 🤓
 - 🌱 Learning firebase and react state management in depth
 <br>
